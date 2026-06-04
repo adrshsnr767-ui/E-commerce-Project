@@ -163,7 +163,7 @@ nav {
 .nav-menu-list > ul > li:hover .un-line {
   width: 100%;
 }
-.nav-menu-list > ul > li.active .un-line {
+.nav-menu-list > ul >.active >.un-line {
   width: 100%;
 }
 
