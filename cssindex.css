@@ -71,9 +71,9 @@ nav {
     height: 13vh;
     width: 100%;
     position: fixed;
-    top: 2.5rem;
+    top: 2.3rem;
      z-index: 999;
-   ;
+   
 }
 
 
@@ -280,7 +280,7 @@ body {
 .product-image>img {
     width: 35rem;
     position: relative;
-    top: -70px;
+    top: -20px;
 
 
 }
